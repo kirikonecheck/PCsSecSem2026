@@ -39,7 +39,7 @@
 
 ## Телекомунникационные сети 
 
-<img src="https://media.licdn.com/dms/image/v2/D4D12AQE62OLcvcLfhw/article-cover_image-shrink_720_1280/B4DZYe363bG4AI-/0/1744274705054?e=2147483647&v=beta&t=otM_TOVp9bnA4Skj2LQM4NXFlZ1VEVDax_ALk80m2GM">
+<img src="https://media.licdn.com/dms/image/v2/D4D12AQE62OLcvcLfhw/article-cover_image-shrink_720_1280/B4DZYe363bG4AI-/0/1744274705054?e=2147483647&v=beta&t=otM_TOVp9bnA4Skj2LQM4NXFlZ1VEVDax_ALk80m2GM" height=300px width=300px>
 
 #### Состав телекоммуникационных сетей:
 ```
