@@ -5,3 +5,7 @@
 ### [1 дз](/ApparitnieSredstva/DZ)
 
 ### [2 дз](/ApparitnieSredstva/DZ2)
+
+## Компьютерные сети
+
+### [Папочка](/ComputerSeti/)
