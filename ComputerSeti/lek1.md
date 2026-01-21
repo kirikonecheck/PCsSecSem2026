@@ -22,7 +22,8 @@
 ### Телекоммуникационную сеть условно принято разделять на коммуникационную сеть и информационную сеть.
 ### Коммуникационная сеть – предназначена для передачи данных.
 ### Информационная сеть – предназначена для обработки, хранения и передачи данных и создается подключением к коммуникационной сети абонентских систем.
-[Ris1.1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5T_iAMS9ACcqBHYA9mAcqMOFHWpD4iNrVtg&s)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5T_iAMS9ACcqBHYA9mAcqMOFHWpD4iNrVtg&s">
+
 ##### Рисунок 1.1
 
 
