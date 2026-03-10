@@ -8,7 +8,7 @@
 |ОЗУ: Latency Memory Performance|Intel Ivy Bridge|Тест успешно пройден|
 |ВИДЕО: Тест видео/DirectX |Core i7/i5/i3 Graphics Controller|Texture: 2178 FPS; Texture(Fullscreen): 186 FPS; Particles 3D: 23 FPS; Vertex: 69 FPS; Billboard: 973 FPS|
 |ВИДЕО: Video Benchmark |Core i7/i5/i3 Graphics Controller| 59514|
-|HDD:C:|Жёсткий диск C:\|Sequential Write: 350.71 Мб/s(CPU Usage: 3%); Sequential Read: 367.45 Мб/s(CPU usage:3%)|
+|HDD:C:|Жёсткий диск C:\ | Sequential Write: 350.71 Мб/s(CPU Usage: 3%); Sequential Read: 367.45 Мб/s(CPU usage:3%)|
 
 
 
