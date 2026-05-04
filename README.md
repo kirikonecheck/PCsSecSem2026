@@ -20,18 +20,18 @@
 
 ### [1 лекция](/VnedreniieOS/lek1.md)
 
-### [1 лабораторная](/VnedreniieOS/)
+### [1 лабораторная](/VnedreniieOS/lab1.md)
 
-### [2 лабораторная](/VnedreniieOS/)
+### [2 лабораторная](/VnedreniieOS/lab2.md)
 
-### [3 лабораторная](/VnedreniieOS/)
+### [3 лабораторная](/VnedreniieOS/lab3.md)
 
-### [4 лабораторная](/VnedreniieOS/)
+### [4 лабораторная](/VnedreniieOS/lab4.md)
 
-### [5 лабораторная](/VnedreniieOS/)
+### [5 лабораторная](/VnedreniieOS/lab5.md)
 
-### [6 лабораторная](/VnedreniieOS/)
+### [6 лабораторная](/VnedreniieOS/lab6.md)
 
-### [7 лабораторная](/VnedreniieOS/)
+### [7 лабораторная](/VnedreniieOS/lab7.md)
 
-### [8 лабораторная](/VnedreniieOS/)
+### [8 лабораторная](/VnedreniieOS/lab8.md)
