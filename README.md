@@ -10,4 +10,28 @@
 
 ## Компьютерные сети
 
-### [Папочка](/ComputerSeti/)
+### [Доклад](/ComputerSeti/doklad/doklad.md)
+
+### [1 лекция](/ComputerSeti/lek1.md)
+
+### [1 лабораторная](/ComputerSeti/laba1.md)
+
+## Внедрение ОС
+
+### [1 лекция](/VnedreniieOS/lek1.md)
+
+### [1 лабораторная](/VnedreniieOS/)
+
+### [2 лабораторная](/VnedreniieOS/)
+
+### [3 лабораторная](/VnedreniieOS/)
+
+### [4 лабораторная](/VnedreniieOS/)
+
+### [5 лабораторная](/VnedreniieOS/)
+
+### [6 лабораторная](/VnedreniieOS/)
+
+### [7 лабораторная](/VnedreniieOS/)
+
+### [8 лабораторная](/VnedreniieOS/)
