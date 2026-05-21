@@ -16,7 +16,9 @@
 
 ### [1 лабораторная](/ComputerSeti/laba1.md)
 
-### [3 лабораторная](/ComputerSeti/laba1.md)
+### [3 лабораторная](/ComputerSeti/laba3.md)
+
+### [4 лабораторная](/ComputerSeti/laba4.md)
 
 ## Внедрение ОС
 
