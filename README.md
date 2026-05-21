@@ -16,6 +16,8 @@
 
 ### [1 лабораторная](/ComputerSeti/laba1.md)
 
+### [3 лабораторная](/ComputerSeti/laba1.md)
+
 ## Внедрение ОС
 
 ### [1 лекция](/VnedreniieOS/lek1.md)
