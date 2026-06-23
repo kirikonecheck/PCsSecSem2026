@@ -62,6 +62,10 @@
 
 ### [19 лабораторная](/VnedreniieOS/lab19.md)
 
+### [20 лабораторная](/VnedreniieOS/lab20.md)
+
+### [24 лабораторная](/VnedreniieOS/lab24.md)
+
 ### [34 лабораторная](/VnedreniieOS/lab34.md)
 
 ### [35 лабораторная](/VnedreniieOS/lab35.md)
