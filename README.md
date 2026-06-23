@@ -48,6 +48,10 @@
 
 ### [11 лабораторная](/VnedreniieOS/lab11.md)
 
+### [12 лабораторная](/VnedreniieOS/lab12.md)
+
+### [13 лабораторная](/VnedreniieOS/lab13.md)
+
 ### [14 лабораторная](/VnedreniieOS/lab14.md)
 
 ### [15 лабораторная](/VnedreniieOS/lab15.md)
