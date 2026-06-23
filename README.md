@@ -22,6 +22,8 @@
 
 ## Внедрение ОС
 
+### [Велосипед на колёсиках](/VnedreniieOS/labavel.md)
+
 ### [1 лекция](/VnedreniieOS/lek1.md)
 
 ### [1 лабораторная](/VnedreniieOS/lab1.md)
